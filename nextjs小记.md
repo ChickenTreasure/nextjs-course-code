@@ -97,4 +97,3 @@ export default function PortfolioDemo() {
 
 pages 文件夹下创建特殊文件 404.js，Next.js 将会在返回 404 错误时，自动加载组件。
 
-相当于用户可以自定义 404 页面。 作者：无限咪咪 https://www.bilibili.com/read/cv20992052/ 出处：bilibili
